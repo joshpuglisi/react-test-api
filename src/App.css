@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+#berry-drop {
+  font-size: 16pt;
+  width: 25em;
+  display: inline-block;
+}
